@@ -1,0 +1,13 @@
+C:\Users\omor\documents\visual studio 2010\Projects\Testmoq\Testmoq\bin\Release\Testmoq.exe.config
+C:\Users\omor\documents\visual studio 2010\Projects\Testmoq\Testmoq\bin\Release\Testmoq.exe
+C:\Users\omor\documents\visual studio 2010\Projects\Testmoq\Testmoq\bin\Release\Testmoq.pdb
+C:\Users\omor\documents\visual studio 2010\Projects\Testmoq\Testmoq\bin\Release\Moq.dll
+C:\Users\omor\documents\visual studio 2010\Projects\Testmoq\Testmoq\bin\Release\nunit.framework.dll
+C:\Users\omor\documents\visual studio 2010\Projects\Testmoq\Testmoq\bin\Release\Moq.pdb
+C:\Users\omor\documents\visual studio 2010\Projects\Testmoq\Testmoq\bin\Release\Moq.xml
+C:\Users\omor\documents\visual studio 2010\Projects\Testmoq\Testmoq\obj\x86\Release\Testmoq.csprojResolveAssemblyReference.cache
+C:\Users\omor\documents\visual studio 2010\Projects\Testmoq\Testmoq\obj\x86\Release\Testmoq.exe
+C:\Users\omor\documents\visual studio 2010\Projects\Testmoq\Testmoq\obj\x86\Release\Testmoq.pdb
+\\isd103\DevWorkshop\C#\guidelines\TestMoq\Testmoq\bin\Release\Testmoq.exe.config
+\\isd103\DevWorkshop\C#\guidelines\TestMoq\Testmoq\obj\x86\Release\Testmoq.exe
+\\isd103\DevWorkshop\C#\guidelines\TestMoq\Testmoq\obj\x86\Release\Testmoq.pdb

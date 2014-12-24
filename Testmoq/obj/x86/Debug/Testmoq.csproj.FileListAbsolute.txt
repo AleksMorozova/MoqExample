@@ -1,0 +1,9 @@
+C:\Users\omor\documents\visual studio 2010\Projects\Testmoq\Testmoq\bin\Debug\Testmoq.exe.config
+C:\Users\omor\documents\visual studio 2010\Projects\Testmoq\Testmoq\bin\Debug\Testmoq.exe
+C:\Users\omor\documents\visual studio 2010\Projects\Testmoq\Testmoq\bin\Debug\Testmoq.pdb
+C:\Users\omor\documents\visual studio 2010\Projects\Testmoq\Testmoq\bin\Debug\Moq.dll
+C:\Users\omor\documents\visual studio 2010\Projects\Testmoq\Testmoq\bin\Debug\nunit.framework.dll
+C:\Users\omor\documents\visual studio 2010\Projects\Testmoq\Testmoq\bin\Debug\Moq.pdb
+C:\Users\omor\documents\visual studio 2010\Projects\Testmoq\Testmoq\bin\Debug\Moq.xml
+C:\Users\omor\documents\visual studio 2010\Projects\Testmoq\Testmoq\obj\x86\Debug\Testmoq.exe
+C:\Users\omor\documents\visual studio 2010\Projects\Testmoq\Testmoq\obj\x86\Debug\Testmoq.pdb
